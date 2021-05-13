@@ -4,4 +4,4 @@ Repository inspired by https://astralcodexten.substack.com/p/welcome-to-the-terr
 
 Apparently a FOSS (Free Open Source Software) CBTi (Cognitive Behavioural Therapy for Insomnia) app might solve lots of problems. 
 
-Please contribute issues and/or code. 
+Please contribute issues and/or code.  Currently there is nothing here.
